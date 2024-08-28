@@ -4,7 +4,7 @@ I'm Fabio Napolillo, I'm a Game Programmer, particularly interested in Gameplay 
 
 ## Some infos about me :
 - 🕑 Level 25 (Age)
-- 👨‍💼 I currently work as French Translator and Help Desk for a software house
+- 👨‍💼 I currently work as French Translator, Help Desk and QA Tester for a software house
 - 🎮 My favorites games are : Super Mario 64, Kingdom Hearts 2
 - 📚 My favorite writer :  Lovecraft
 - 🍃 In my free time I obviously play videogames and I explore various domains : Drones, 3D Printing, Astronomy..
